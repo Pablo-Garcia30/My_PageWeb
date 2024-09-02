@@ -1,8 +1,9 @@
 .body{
     background-color: whitesmoke;
 }
-.navbar-custom{
-   background-color: gray;
+.navbar-custom, .nav-link{
+   background-color: rgb(40, 40, 41);
+   color: white;
 }
 
 
@@ -32,8 +33,33 @@ col-md-6 {
 
 }
 
-.header-home{
-    background-image: url("../img/balck.jpg");
+.header-videojuegos{
+    background-image: url("../img/desarrollo-de-videojuegos.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-motivaciones{
+    background-image: url("../img/nave.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.header-gustos{
+    background-image: url("../img/Hunters\ Dream\ 1.png");
     background-size: cover;
     background-position: center;
     height: 80vh;
@@ -64,6 +90,13 @@ text-align: center;
 .fav{
     text-align: center;
 }
-.se{
+.gate{
+src: url(../pages/Programing_Developer.html);
+}
+.programador{
+width: 300vh;
 
+}
+.footer{
+    color: white;
 }
