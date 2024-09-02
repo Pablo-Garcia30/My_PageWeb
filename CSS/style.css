@@ -1,0 +1,69 @@
+.body{
+    background-color: whitesmoke;
+}
+.navbar-custom{
+   background-color: gray;
+}
+
+
+col-md-6 {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.card-custom{
+    background-color:     white;
+}
+.list{
+    text-align: center;
+}
+
+.header-canals{
+    background-image: url("../img/stream.png");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+.header-home{
+    background-image: url("../img/balck.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.border-info{
+    border-color: black;
+    background-color: black;
+}
+.portada{
+    width: 300px;
+    height: auto;
+}
+.col{
+    border-color: black;
+    border-radius: 10px;
+    border-top: black;
+}
+.sobre{
+    
+text-align: center;
+}
+.fav{
+    text-align: center;
+}
+.se{
+
+}
